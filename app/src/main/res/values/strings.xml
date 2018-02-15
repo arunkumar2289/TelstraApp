@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TelstraDemoApp</string>
+    <string name="title_activity_list_item">ListItemActivity</string>
+    <string name="alert_no_network_title">Connection Status</string>
+    <string name="alert_data_error">Data Problem</string>
+    <string name="alert_no_network_ok">OK</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="alert_no_network_text">No Network connection found. Please check the network status</string>
+    <string name="alert_no_data_text">No Data received.Please try again later</string>
+    <string name="splash_loading">Loading&#8230;</string>
+    <string name="url">https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json</string>
+</resources>

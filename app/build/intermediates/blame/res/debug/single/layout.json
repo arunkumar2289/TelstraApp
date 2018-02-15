@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\yo388789\\AndroidStudioProjects\\TelstraDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_list_activity.xml",
+        "source": "C:\\Users\\yo388789\\AndroidStudioProjects\\TelstraDemoApp\\app\\src\\main\\res\\layout\\content_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yo388789\\AndroidStudioProjects\\TelstraDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\yo388789\\AndroidStudioProjects\\TelstraDemoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
