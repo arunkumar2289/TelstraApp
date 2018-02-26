@@ -26,4 +26,10 @@ public class TestUnitTest {
         ImageData imageData = new ImageData();
         assertEquals(null,imageData.description);
     }
+    
+      @Test
+    public void checkNull() throws Exception{
+        ImageData imageData = new ImageData();
+        assertEquals("",imageData.title);
+    }
 }
