@@ -20,4 +20,10 @@ public class TestUnitTest {
         List<ImageData> value = Util.removeNull(datas);
         assertEquals(1, value.size());
     }
+    
+     @Test
+    public void checkIsNull() throws Exception{
+        ImageData imageData = new ImageData();
+        assertEquals(null,imageData.description);
+    }
 }
